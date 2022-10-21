@@ -15,4 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![background B complete](https://user-images.githubusercontent.com/106405634/197265866-02e6efa1-44cd-43f0-acc6-df717c371ab8.png)
-![WordleBkgd](https://user-images.githubusercontent.com/106405634/197266095-609b991a-6339-4091-9339-103dc8680e3d.gif)
